@@ -18,9 +18,8 @@ This portfolio is built with:
 - 🎸 **Music & Band** – A creative side of me inspired by Gorillaz  
 
 ## 📬 Get in Touch  
-📧 **Email:** [your.email@example.com]  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
+📧 **Email:** [adamsbahloul@gmail.com]  
+🔗 **LinkedIn:** [linkedin.com/in/adamBahloul](https://www.linkedin.com/in/bahloul-adam/)  
 
 💡 *"Technology should empower, not just impress."*  
 
