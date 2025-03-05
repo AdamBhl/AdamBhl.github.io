@@ -28,7 +28,3 @@ I am Adam Bahloul—an explorer of the digital and biological worlds, driven by 
 🔗 **LinkedIn:** [linkedin.com/in/adamBahloul](https://linkedin.com/in/adamBahloul)  
 
 💡 *"Code is just logic, but intelligence is art."*  
-
----
-
-🔥 This `README.md` sets the tone for your entire portfolio. Let me know if you'd like to add or tweak anything! 🚀
